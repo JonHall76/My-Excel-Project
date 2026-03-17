@@ -78,4 +78,12 @@ Using conditional logic (e.g., SWITCH) to categorise data
 Translating data into meaningful charts
 Interpreting business‑focused insights
 
+# Bike Sales Visualisations
 
+<img width="753" height="424" alt="image" src="https://github.com/user-attachments/assets/60bb7bec-9f84-4ced-bbeb-2efc404c4218" />
+
+<img width="787" height="277" alt="image" src="https://github.com/user-attachments/assets/438d12c3-8817-48a0-8bf6-249fc7d2c116" />
+
+<img width="778" height="475" alt="image" src="https://github.com/user-attachments/assets/84e19e9c-e8d4-406f-b549-11cb4333c006" />
+
+<img width="835" height="505" alt="image" src="https://github.com/user-attachments/assets/53c0566f-5da1-4e26-9280-88f04129a7a9" />
